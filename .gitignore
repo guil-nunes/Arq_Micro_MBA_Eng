@@ -10,3 +10,13 @@ apresentacoes/
 /aula_02/DEMO_1/offset_demo.py
 /aula_02/DEMO_1/consumer_group_demo.py
 
+# macOS
+.DS_Store
+
+# Ambientes conda locais
+*.egg-info/
+__pycache__/
+*.pyc
+
+# Logs das demos
+aula_03/**/*.log
